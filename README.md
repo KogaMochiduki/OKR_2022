@@ -4,7 +4,7 @@
 Ruby on Railsを用いたWebアプリケーション開発の「0 -> 1」を支援するドキュメントの作成
 
 ## 目標
-「Rubyとは？」「Ruby on Railsとは？」という状態から脱却し、Ruby on Railsを用いたWebアプリケーションを環境環境の構築から行うことができる
+「Rubyとは？」「Ruby on Railsとは？」という状態から脱却し、Ruby on Railsを用いたWebアプリケーションを開発環境の構築から行うことができる
 
 ## 対象読者
 * Ruby/Ruby on Railsに興味のある方
